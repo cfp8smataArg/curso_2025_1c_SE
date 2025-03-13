@@ -1,2 +1,1 @@
-# 20251c_SE
-Repositorio del curso Programador de Sistemas Robóticos, 1er cuatrimestre, 2025
+# Curso Programador de sistemas robóticos 2025 1er cuatrimestre
